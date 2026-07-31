@@ -15,7 +15,7 @@ A simple **Blackjack Game** built with **HTML, CSS, and JavaScript**. Draw cards
 ![Home Screen](./images/Home.png)
 
 ### 🃏 Gameplay
-![Gameplay](./images/again.png)
+![Gameplay](./images/Again.png)
 
 ### 🏆 Blackjack / Game Over
 ![Result](./images/backJack.png)
