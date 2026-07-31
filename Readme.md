@@ -4,7 +4,7 @@ A simple **Blackjack Game** built with **HTML, CSS, and JavaScript**. Draw cards
 
 ## 🚀 Live Demo
 
-🔗 **Play Here:** https://your-demo-link.netlify.app
+🔗 **Play Here:** [backjackcasino.netlify.app](https://backjackcasino.netlify.app/)
 
 ---
 
