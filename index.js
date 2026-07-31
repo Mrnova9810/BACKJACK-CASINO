@@ -26,7 +26,7 @@ let player = {
 
 function startGame(){
 
-    if(!isAlive  && !hasBackJack){
+    if(!isAlive  && !hasBackJack  && player.chips >= 10){
         
     cards = []
     sum = 0   
